@@ -1,7 +1,7 @@
 import numpy as np
 import scipy.io as sio 
 import matplotlib.pyplot as plt
-import ml
+import ml   #the ml module module used is also present with this file in this repository
 import random
 
 num_out=10 #the number of units in the output layer
